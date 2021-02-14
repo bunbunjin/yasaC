@@ -1,7 +1,1 @@
-# kanji
-# Otakunikusu-
-# Otakunikusu-
-# line_notify
-# line_notify
-# line_notify
-# line_notify
+LINE Nofityで岡山に警報が出ている時に連絡してくれるコード
