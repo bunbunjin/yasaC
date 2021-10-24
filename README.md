@@ -4,3 +4,4 @@ LINE Nofityで岡山に警報が出ている時に連絡してくれるコード
 # yasaC
 # yasaC
 # yasaC
+# yasaC
