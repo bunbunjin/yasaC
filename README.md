@@ -3,3 +3,4 @@ LINE Nofityで岡山に警報が出ている時に連絡してくれるコード
 # fpga_practice
 # yasaC
 # yasaC
+# yasaC
