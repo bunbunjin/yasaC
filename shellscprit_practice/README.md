@@ -1,1 +1,0 @@
-# shellscprit_practice
