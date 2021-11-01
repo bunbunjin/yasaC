@@ -4,12 +4,11 @@
 
 #include "stdio.h"
 int main(void){
-    int num = 0;
-    while (num){
-        printf("整数を入力してください\n");
-        scanf("%d", &num);
-        printf("%dが入力されました。\n", num);
+    int i, j;
+    int nums[10];
+    for (i=0;i<10;i++){
+        nums[i] = i;
+        printf("%d\n", nums[i]);
     }
-    printf("繰り返し処理が終わりました。\n");
-    return 0;
+
 }
