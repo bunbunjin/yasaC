@@ -4,7 +4,7 @@
 
 #include "stdio.h"
 
-double avg(int t[]);
+double avg(int *pT);
 
 int main(void){
     int test[5];
@@ -20,13 +20,13 @@ int main(void){
     printf("5人の平均点は%f点です\n", ans);
 }
 
-double avg(int t[]){
+double avg(int *pT){
     int i;
     double sum;
     sum = 0.0;
 
     for (i=0; i<5; i++){
-        sum += t[i];
+        sum += *(pT+i);
     }
     return sum/5;
 }
